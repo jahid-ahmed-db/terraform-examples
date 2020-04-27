@@ -1,7 +1,7 @@
 locals {
     automation_tags = {
         created_by  = "Terraform Automation"
-        environmnet = "Production"
+        environmnet = "Development"
     }
 }
 
